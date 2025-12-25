@@ -710,9 +710,9 @@ Outputs are written to:
 At the end of the workflow, you can watch a full implementation and walkthrough on YouTube.
 
 <!-- Replace YOUR_VIDEO_ID and YOUR_VIDEO_URL with your real link. -->
-<a href="" target="_blank">
+<a href="https://www.youtube.com/watch?v=UgHHyfmOz9o" target="_blank">
   <img
-    src="https://i.ytimg.com/vi/my_video/maxresdefault.jpg"
+    src="https://i.ytimg.com/vi/UgHHyfmOz9o/maxresdefault.jpg"
     alt="ODE/PDE in Ruby - Implementation Tutorial"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.18); margin-top: 0.5rem;"
   />
